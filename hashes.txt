@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu sonrisa me atrapa
+
+This log tracks the cryptographic history and versioning for the song **Tu sonrisa me atrapa** (tu-sonrisa-me-atrapa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T05:14:03.002809 | `v1` | `122029201d82ff95dac5323c936406f94d95ade5028ad333bfaca3e96ca18479` | `46745ef6a9988b4729afe92d00ad387224691f5e0d704f1eb2280c6ab8c873cc` | `2026-06-22_tu-sonrisa-me-atrapa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
