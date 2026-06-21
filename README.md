@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Tu sonrisa me atrapa |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-sonrisa-me-atrapa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu sonrisa me atrapa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-me-atrapa/) |
+| **Get License** | [Music Rights & Licensing for Tu sonrisa me atrapa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-sonrisa-me-atrapa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Esa mirada tuya me tiene en un viaje,
-> Tu sonrisa me atrapa, es puro chantaje.
-> Tú tienes un rollo que rompe el paisaje,
-> Nos fuimos de largo, baby, sin equipaje.
+> Your smile pulls me in like a midnight wave
+> Got me lost in the rhythm of the things you crave
+> Late nights, fast cars, and the city lights
+> Your love is the drug that I need tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
